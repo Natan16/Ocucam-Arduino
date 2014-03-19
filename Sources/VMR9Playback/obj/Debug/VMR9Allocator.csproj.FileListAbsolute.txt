@@ -1,0 +1,9 @@
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Output\bin\Debug\VMR9Playback.exe.config
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Output\bin\Debug\VMR9Playback.exe
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Output\bin\Debug\VMR9Playback.pdb
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\VMR9Allocator.csprojResolveAssemblyReference.cache
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\VMR9Playback.MainForm.resources
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\VMR9Playback.Properties.Resources.resources
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\VMR9Allocator.csproj.GenerateResource.Cache
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\VMR9Playback.exe
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\VMR9Playback.pdb

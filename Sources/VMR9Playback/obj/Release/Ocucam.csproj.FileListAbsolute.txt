@@ -1,0 +1,19 @@
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Release\VMR9Playback.CaptureSelection.resources
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Release\VMR9Playback.MainForm.resources
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Release\Ocucam.csproj.GenerateResource.Cache
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Output\bin\Release\Ocucam.exe.config
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Output\bin\Release\Ocucam.exe
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Output\bin\Release\Ocucam.pdb
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Release\Ocucam.Properties.Resources.resources
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Release\Ocucam.exe
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Release\Ocucam.pdb
+F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Output\bin\Release\Ocucam.exe.config
+F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Sources\VMR9Playback\obj\Release\Ocucam.exe
+F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Sources\VMR9Playback\obj\Release\Ocucam.pdb
+F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Output\bin\Release\Ocucam.exe
+F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Output\bin\Release\Ocucam.pdb
+F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Sources\VMR9Playback\obj\Release\Ocucam.csprojResolveAssemblyReference.cache
+F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Sources\VMR9Playback\obj\Release\VMR9Playback.CaptureSelection.resources
+F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Sources\VMR9Playback\obj\Release\VMR9Playback.MainForm.resources
+F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Sources\VMR9Playback\obj\Release\Ocucam.Properties.Resources.resources
+F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Sources\VMR9Playback\obj\Release\Ocucam.csproj.GenerateResource.Cache

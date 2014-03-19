@@ -1,0 +1,10 @@
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\VMR9Playback.MainForm.resources
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\Ocucam.csproj.GenerateResource.Cache
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\VMR9Playback.CaptureSelection.resources
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Output\bin\Debug\Ocucam.exe.config
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Output\bin\Debug\Ocucam.exe
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Output\bin\Debug\Ocucam.pdb
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\Ocucam.Properties.Resources.resources
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\Ocucam.exe
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\Ocucam.pdb
+C:\Users\Scott Cutler\Projects\p4\0\projects\vr\Ocucam\Sources\VMR9Playback\obj\Debug\Ocucam.csprojResolveAssemblyReference.cache

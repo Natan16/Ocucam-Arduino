@@ -1,0 +1,17 @@
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\bin\Release\OculusParrotKinect.OculusRift.dll
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\bin\Release\OculusParrotKinect.OculusRift.pdb
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\bin\Release\Microsoft.Xna.Framework.dll
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\bin\Release\Microsoft.Xna.Framework.xml
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\obj\Release\OculusRift.csproj.GenerateResource.Cache
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\obj\Release\OculusParrotKinect.OculusRift.dll
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\obj\Release\OculusParrotKinect.OculusRift.pdb
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\obj\Release\OculusRift.OculusRift.OculusResource.resources
+C:\Users\nlopes\Downloads\OculusArDroneKinect-master\OculusArDroneKinect-master\OculusParrotKinect.OculusRift\obj\Release\OculusRift.csprojResolveAssemblyReference.cache
+F:\User Files\Programming\VS2012 - C# Projects\OculusParrotKinect.OculusRift\bin\Release\OculusParrotKinect.OculusRift.dll
+F:\User Files\Programming\VS2012 - C# Projects\OculusParrotKinect.OculusRift\bin\Release\OculusParrotKinect.OculusRift.pdb
+F:\User Files\Programming\VS2012 - C# Projects\OculusParrotKinect.OculusRift\bin\Release\Microsoft.Xna.Framework.xml
+F:\User Files\Programming\VS2012 - C# Projects\OculusParrotKinect.OculusRift\obj\Release\OculusRift.csprojResolveAssemblyReference.cache
+F:\User Files\Programming\VS2012 - C# Projects\OculusParrotKinect.OculusRift\obj\Release\OculusRift.OculusRift.OculusResource.resources
+F:\User Files\Programming\VS2012 - C# Projects\OculusParrotKinect.OculusRift\obj\Release\OculusRift.csproj.GenerateResource.Cache
+F:\User Files\Programming\VS2012 - C# Projects\OculusParrotKinect.OculusRift\obj\Release\OculusParrotKinect.OculusRift.dll
+F:\User Files\Programming\VS2012 - C# Projects\OculusParrotKinect.OculusRift\obj\Release\OculusParrotKinect.OculusRift.pdb
