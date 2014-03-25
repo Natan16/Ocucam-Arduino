@@ -17,3 +17,6 @@ F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Sources\VMR9Playback\o
 F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Sources\VMR9Playback\obj\Release\VMR9Playback.MainForm.resources
 F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Sources\VMR9Playback\obj\Release\Ocucam.Properties.Resources.resources
 F:\User Files\Programming\VS2012 - C# Projects\Ocucam\src\Sources\VMR9Playback\obj\Release\Ocucam.csproj.GenerateResource.Cache
+C:\Users\Jarl\Documents\Visual Studio 2012\Projects\Ocucam\Output\bin\Release\Ocucam.exe.config
+C:\Users\Jarl\Documents\Visual Studio 2012\Projects\Ocucam\Sources\VMR9Playback\obj\Release\Ocucam.exe
+C:\Users\Jarl\Documents\Visual Studio 2012\Projects\Ocucam\Sources\VMR9Playback\obj\Release\Ocucam.pdb

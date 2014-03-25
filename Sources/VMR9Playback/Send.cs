@@ -14,7 +14,7 @@ namespace Ocucam
         bool _shouldStop = false; 
 
         Vector3 oculusAngles = Helpers.ToEulerAngles(OculusClient.GetPredictedOrientation());
-        SerialPort port = new SerialPort("COM1", 9600, Parity.None);
+        SerialPort port = new SerialPort("COM15", 9600, Parity.None);
         
         
         public void sendOrientation()
@@ -22,9 +22,9 @@ namespace Ocucam
             while (!_shouldStop)
             {
                 //Get and store angles
-                float angleX = oculusAngles.X;
-                float angleY = oculusAngles.Y;
-                float angleZ = oculusAngles.Z;
+                int angleX = (int)oculusAngles.X;
+                int angleY = (int)oculusAngles.Y;
+                int angleZ = (int)oculusAngles.Z;
 
                 //Format angle string before sending it
                 string orientationData = String.Format(angleX + "|" + angleY + "|" + angleZ);
